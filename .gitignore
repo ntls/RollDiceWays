@@ -1,0 +1,23 @@
+# IntelliJ project files
+.idea
+gcscope.iml
+out
+
+# OS generated files
+.DS_Store
+
+# Netbeans
+/target/
+/nb-configuration.xml
+/nbproject/
+build.xml
+manifest.mf
+
+# Gradle
+settings.gradle
+.gradle/
+/build/
+/dist/
+/src/main/java/com/kodewerk/gcscope/ui/demo/GuiLoader.java
+/.nb-gradle/profiles/private/
+/.nb-gradle/private/
